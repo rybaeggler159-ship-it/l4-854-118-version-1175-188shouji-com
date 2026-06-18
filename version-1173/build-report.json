@@ -1,0 +1,21 @@
+{
+    "movies": 2000,
+    "detail_pages": 2000,
+    "category_cards": 2000,
+    "html_pages": 2017,
+    "all_html_has_baidu": true,
+    "player_pages": 2000,
+    "no_image_files_in_build": true,
+    "category_distribution": {
+        "jingxuan-01": 200,
+        "jingxuan-02": 200,
+        "jingxuan-03": 200,
+        "jingxuan-04": 200,
+        "jingxuan-05": 200,
+        "jingxuan-06": 200,
+        "jingxuan-07": 200,
+        "jingxuan-08": 200,
+        "jingxuan-09": 200,
+        "jingxuan-10": 200
+    }
+}
